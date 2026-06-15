@@ -1,3 +1,5 @@
+package blind75;
+
 class Solution {
     public static int[] topKFrequent(int[] nums, int k) {
         Map<Integer,Integer> map = new HashMap<>();
