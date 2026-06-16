@@ -9,7 +9,7 @@ The goal of this repository is to:
 - Reinforce fundamental DSA patterns (e.g., Two Pointers, Sliding Window, Graph Traversals, Dynamic Programming).
 
 ## 🛠️ Tech Stack & Language
-- **Language:** [Insert Language, e.g., Java / Python / C++]
+- **Language:** Java 
 - **Platform:** LeetCode
 
 ---
